@@ -11,4 +11,5 @@ Check out my pinned repositories below!
 
 
 
-- [Live Website](https://tobygrewe.github.io/Landing-Page/)
+- [Business Website](https://tobygrewe.github.io/Landing-Page/)
+- [Personal Website](https://soulrepo.nekoweb.org/)
