@@ -2,9 +2,9 @@
 
 ## Web Developer, IT Professional, and Avid learner
 
-- 🔭 Currently working on portfolio projects
-- 🌱 Learning full-stack development
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tobygrewe)
+- B.S in Information Technology
+- Background in computer science
+- [LinkedIn](https://www.linkedin.com/in/tobygrewe)
 
 ### Projects
 Check out my pinned repositories below!
