@@ -1,6 +1,6 @@
-# Hi, I'm Toby! 👋
+# Hi, I'm Toby! 
 
-## Web Developer learning HTML, CSS, JavaScript, and Git
+## Web Developer, IT Professional, and advid learner
 
 - 🔭 Currently working on portfolio projects
 - 🌱 Learning full-stack development
