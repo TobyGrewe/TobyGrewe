@@ -1,6 +1,6 @@
 # Hi, I'm Toby! 
 
-## Web Developer, IT Professional, and advid learner
+## Web Developer, IT Professional, and Avid learner
 
 - 🔭 Currently working on portfolio projects
 - 🌱 Learning full-stack development
